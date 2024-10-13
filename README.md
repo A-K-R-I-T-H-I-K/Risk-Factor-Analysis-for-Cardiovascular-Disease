@@ -23,3 +23,13 @@ Predictive Accuracy: The developed machine learning models achieved over 90% acc
 Identified Risk Factors: Major risk factors identified include blood pressure, glucose levels, work type, and smoking status.
 
 Interactive Dashboards: More than 5 interactive dashboards and storyboards were created in Tableau, offering a detailed breakdown of the insights.
+
+<img width="715" alt="Screenshot 2024-10-13 at 6 34 48 PM" src="https://github.com/user-attachments/assets/f4315c61-5569-408f-a3ea-1c76dee843b9">
+
+<img width="715" alt="Screenshot 2024-10-13 at 6 35 24 PM" src="https://github.com/user-attachments/assets/e5d18c2b-59c0-455a-be5d-e6923efc7ab5">
+
+<img width="715" alt="Screenshot 2024-10-13 at 6 36 02 PM" src="https://github.com/user-attachments/assets/d197df11-df2c-4963-808d-670f83eaaa99">
+
+<img width="715" alt="Screenshot 2024-10-13 at 6 36 23 PM" src="https://github.com/user-attachments/assets/d9d54177-7ba0-4e18-8cd4-d0cd5794d303">
+
+
